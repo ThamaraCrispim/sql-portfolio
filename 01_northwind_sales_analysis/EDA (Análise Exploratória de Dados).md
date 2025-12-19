@@ -39,3 +39,14 @@ LIMIT 10;
 | ship_region        | Qualitativa nominal           |
 | ship_postal_code   | Qualitativa nominal           |
 | ship_country       | Qualitativa nominal           |
+
+
+### Número de Resgistos
+
+
+```sql
+select count(*) as toral_registros from northwind_orders
+```
+**Print do resultado no mysql:**
+
+![ Número de Resgistos](https://github.com/ThamaraCrispim/SQL-PoD-Academy/blob/main/imagens/Numero%20de%20resgisto!%20projeto%201.png)
