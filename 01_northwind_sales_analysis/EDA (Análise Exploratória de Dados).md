@@ -176,4 +176,14 @@ SELECT COUNT(DISTINCT ship_country) AS valores_unicos FROM northwind_orders;
 A presença de 21 países distintos demonstra que a empresa fictícia Northwind possui uma atuação internacional significativa, atendendo clientes em diversos mercados ao redor do mundo. Esse dado pode ser útil para análises futuras sobre distribuição de vendas, identificação de mercados prioritários e estratégias de expansão.
 
 
+## Análise Geral da Tabela northwind_orders
+
+A análise exploratória dos dados da tabela northwind_orders revelou informações importantes sobre o perfil dos pedidos registrados pela empresa fictícia Northwind. O conjunto de dados é composto por 830 registros, abrangendo pedidos realizados entre 1996 e 1998, sem a presença de valores nulos, o que indica boa qualidade e integridade das informações.
+
+Observou-se uma forte atuação internacional da empresa, com vendas distribuídas em 21 países diferentes. Alemanha e Estados Unidos se destacam como os principais mercados, seguidos pelo Brasil e outros países europeus. A distribuição temporal dos pedidos mostra um crescimento expressivo em 1997, seguido de uma leve queda em 1998, mas ainda mantendo um patamar superior ao início do período analisado.
+
+Em relação ao valor do frete, há grande variação entre os pedidos, com valores que vão de quase zero até mais de mil unidades monetárias. A média do frete é de 78,24, mas o alto desvio padrão sugere a existência de pedidos atípicos ou situações específicas que merecem investigação adicional.
+
+De modo geral, os dados analisados fornecem uma visão abrangente sobre o volume, a distribuição geográfica e temporal dos pedidos, além de apontar para possíveis oportunidades de análise mais aprofundada, como a identificação de outliers nos valores de frete, sazonalidade das vendas e segmentação por clientes ou regiões
+
 
