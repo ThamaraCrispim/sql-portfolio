@@ -52,8 +52,8 @@ select count(*) as toral_registros from northwind_orders
 ![ Número de Resgistos](https://github.com/ThamaraCrispim/SQL-PoD-Academy/blob/main/imagens/Numero%20de%20resgisto!%20projeto%201.png)
 
 
-**Análise:
-A consulta realizada contabiliza um total de 830 registros na tabela northwind_orders, valor que representa a quantidade de vendas/pedidos efetuados e devidamente registrados no sistema.***
+**Análise:**
+A consulta realizada contabiliza um total de 830 registros na tabela northwind_orders, valor que representa a quantidade de vendas/pedidos efetuados e devidamente registrados no sistema.
 
 
 ### Verifique Valores Nulos
@@ -82,8 +82,8 @@ FROM northwind_orders;
 ![ Valor is null](https://github.com/ThamaraCrispim/SQL-PoD-Academy/blob/main/imagens/is%20null.png)
 
 
-**Análise:
-Todas as colunas analisadas na tabela northwind_orders apresentam 0 valores nulos. Portanto, não é necessário realizar tratamento para dados ausentes nesta etapa.***
+**Análise:**
+Todas as colunas analisadas na tabela northwind_orders apresentam 0 valores nulos. Portanto, não é necessário realizar tratamento para dados ausentes nesta etapa.
 
 ### Resumo Estatístico de Colunas Numéricas
 
