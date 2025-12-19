@@ -1,6 +1,8 @@
 ### Análise Exploratória de Dados da Tabela northwind_orders
 
 
+
+
 **A análise exploratória de dados (EDA) é uma etapa fundamental para compreendermos melhor a estrutura e o conteúdo do banco de dados. Esse entendimento inicial é essencial para direcionar análises mais aprofundadas e garantir a qualidade das conclusões obtidas.**
 
 **Comando SQL utilizado:**
