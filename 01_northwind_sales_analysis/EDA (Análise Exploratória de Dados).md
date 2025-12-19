@@ -50,3 +50,7 @@ select count(*) as toral_registros from northwind_orders
 **Print do resultado no mysql:**
 
 ![ Número de Resgistos](https://github.com/ThamaraCrispim/SQL-PoD-Academy/blob/main/imagens/Numero%20de%20resgisto!%20projeto%201.png)
+
+### Analise 
+
+***Foram feitas 830 vendas/pedidos registrados na tabela northwind_orders.***
