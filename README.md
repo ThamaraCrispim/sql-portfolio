@@ -1,51 +1,78 @@
-# Análise de Dados com SQL | Portfólio
+# Portfólio de Análise de Dados com SQL
 
-Este repositório reúne projetos de Análise de Dados desenvolvidos com SQL, com foco na exploração, manipulação e análise de dados armazenados em bancos de dados relacionais.  
-Os estudos aqui apresentados demonstram a aplicação prática de SQL para responder perguntas de negócio, gerar métricas e apoiar a tomada de decisão baseada em dados.
+Repositório dedicado a projetos de Análise de Dados utilizando SQL, com foco em resolver problemas de negócio, gerar insights e apoiar a tomada de decisão baseada em dados.
 
----
-
-## Objetivos
-
-- Desenvolver análises de dados utilizando SQL aplicado a contextos reais  
-- Manipular e explorar dados em bancos de dados relacionais  
-- Construir consultas eficientes para extração e transformação de dados  
-- Aplicar funções agregadas, filtros e agrupamentos para geração de indicadores  
-- Consolidar um portfólio técnico em SQL voltado à área de Análise de Dados  
+Este portfólio demonstra a aplicação prática de SQL em cenários reais, explorando bases de dados relacionais para construção de métricas, análises e respostas estratégicas para empresas.
 
 ---
 
-## Conteúdo
+## Visão Geral
 
-O repositório é composto por projetos de análise independentes, organizados em pastas, cada um abordando um conjunto de dados e um problema analítico distinto.  
-As análises envolvem bases de dados estruturadas, permitindo a prática de consultas SQL em cenários próximos aos encontrados no mercado.
+Os projetos aqui desenvolvidos simulam desafios comuns enfrentados por times de dados em empresas, como:
 
-Os projetos exploram diferentes tipos de análises, incluindo:
+- identificação de padrões e tendências
+- análise de desempenho e indicadores
+- exploração de comportamento de clientes
+- suporte à tomada de decisão orientada por dados
 
-- Análise de desempenho e resultados  
+Cada análise parte de uma pergunta de negócio e evolui para consultas SQL estruturadas, métricas e interpretações analíticas.
+
+---
+
+## Objetivos do Repositório
+
+- Aplicar SQL em problemas reais de análise de dados  
+- Demonstrar domínio na manipulação de dados relacionais  
+- Construir consultas eficientes e organizadas  
+- Gerar métricas e indicadores relevantes para negócio  
+- Consolidar um portfólio técnico voltado para a atuação como Analista de Dados  
+
+---
+
+## Estrutura dos Projetos
+
+O repositório é organizado em projetos independentes, cada um contendo:
+
+- contexto do problema de negócio  
+- exploração das tabelas e estrutura do banco  
+- construção das consultas SQL  
+- geração de métricas e análises  
+- interpretação dos resultados  
+
+Cada pasta representa um cenário analítico distinto, permitindo a prática em diferentes tipos de dados e desafios.
+
+---
+
+## Tipos de Análises Desenvolvidas
+
+- Análise de desempenho operacional  
 - Análise de clientes e comportamento  
-- Métricas, indicadores e análises temporais  
-- Exploração de esquemas e relacionamentos entre tabelas  
+- Construção de métricas e indicadores  
+- Análises temporais e comparativas  
+- Exploração de relacionamentos entre tabelas  
 
 ---
 
-## Tecnologias e Conceitos
+## Tecnologias e Conceitos Aplicados
 
 - SQL (MySQL, PostgreSQL, SQLite)  
 - JOINs (INNER, LEFT, RIGHT)  
 - Subqueries e CTEs  
 - Funções agregadas e analíticas  
 - Filtros, ordenações e agrupamentos  
-- Organização e documentação de consultas SQL  
+- Modelagem lógica básica de dados  
+- Organização e documentação de consultas  
 
 ---
 
-## Estrutura do Repositório
+## Foco Profissional
 
-```text
-/
-├── projeto_01/
-├── projeto_02/
-├── ...
-├── README.md
-└── LICENSE
+Este portfólio foi desenvolvido com o objetivo de demonstrar competências essenciais para atuação como Analista de Dados:
+
+- pensamento analítico  
+- capacidade de traduzir perguntas de negócio em consultas SQL  
+- interpretação de resultados  
+- comunicação de insights  
+
+Mais do que consultas técnicas, os projetos buscam evidenciar como os dados podem apoiar decisões estratégicas dentro de uma organização.
+
